@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8bb14b-6cc8-444a-8960-ffa1afeb3952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.flake8" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608914568521</updated>
       <workItem from="1608914569645" duration="1832000" />
-      <workItem from="1608918264403" duration="905000" />
+      <workItem from="1608918264403" duration="3237000" />
     </task>
     <servers />
   </component>
@@ -57,9 +58,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608914922924">
+    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608919145280">
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
-    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1608914922924" />
+    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1608919145280" />
   </component>
 </project>
