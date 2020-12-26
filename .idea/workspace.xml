@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a8bb14b-6cc8-444a-8960-ffa1afeb3952" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/test_user_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/test/test_tags_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/tests/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/tests/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/tests/test_user_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/tests/test_user_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608914568521</updated>
       <workItem from="1608914569645" duration="1832000" />
-      <workItem from="1608918264403" duration="15139000" />
+      <workItem from="1608918264403" duration="19946000" />
     </task>
     <servers />
   </component>
@@ -61,13 +68,17 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608919145280">
+    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609005303405">
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
-    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1608919145280" />
+    <state x="2460" y="360" key="#com.intellij.fileTypes.FileTypeChooser/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1609005303405" />
     <state x="2565" y="274" key="#com.intellij.ide.util.MemberChooser" timestamp="1608980672150">
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
     <state x="2565" y="274" key="#com.intellij.ide.util.MemberChooser/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1608980672150" />
+    <state x="2459" y="306" width="586" height="490" key="find.popup" timestamp="1608985217249">
+      <screen x="1792" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2459" y="306" width="586" height="490" key="find.popup/1792.23.1920.1057/0.23.1792.1033@1792.23.1920.1057" timestamp="1608985217249" />
   </component>
 </project>
